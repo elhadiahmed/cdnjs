@@ -1,6 +1,6 @@
 {
   "name": "iGrowl",
-  "filename": "igrowl.min.js",
+  "filename": "js/igrowl.min.js",
   "description": "A lightweight jQuery plugin that generates growl-like notifications with an emphasis on icons.",
   "homepage": "https://catc.github.io/iGrowl/",
   "author": {
